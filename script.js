@@ -1,1 +1,1 @@
-alert("welcome to my first website")
+alert("welcome to my new website")
