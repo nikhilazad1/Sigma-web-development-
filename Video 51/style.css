@@ -150,6 +150,9 @@ nav button {
 
 .secImg {
     position: relative;
+    /* justify-content: center;
+    align-items: center;
+    display: flex; */
 }
 
 .secImg img {
